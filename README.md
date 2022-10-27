@@ -36,7 +36,7 @@ credit to: WillBrennan/BlurDetection, OmniXRI/Colab_Webcam_OpenCV, x1001000/live
 1. 研發部：開發檢驗程序
 2. 品管部：品質檢驗人員，執行檢驗程序，完成檢驗記錄。
 
-4. 流程圖
+# 4. 流程圖
 無
 
 # 5. 作業內容
