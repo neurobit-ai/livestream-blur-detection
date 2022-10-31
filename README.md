@@ -7,7 +7,7 @@ IP-PQC-livestream-blur-detection
 
 **Approval:** Ching Fu Wang <chingfu.wang@neurobittech.com>
 
-**Version:** 0.10.6-20221026
+**Version:** 0.10.7-20221028
 
 **Transfer to:** Amedifact <neurobit.amedifact@gmail.com>, Jason Lin <amedifact305@everjuan.com.tw>
 
